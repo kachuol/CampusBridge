@@ -1,0 +1,3 @@
+<FilesMatch "^(id_document|certificate)_">
+    Require all denied
+</FilesMatch>
